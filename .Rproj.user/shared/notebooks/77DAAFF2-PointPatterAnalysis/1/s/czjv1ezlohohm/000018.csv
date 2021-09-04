@@ -1,0 +1,6 @@
+"0","#density per km2"
+"0","Q   <- quadratcount(starbucks.km, nx= 20, ny=10)"
+"0","Q.d <- intensity(Q)"
+"0",""
+"0","# Plot the density"
+"0","plot(intensity(Q, image=TRUE), main=""Starbucks per km^2"", las=1)  # Plot density raster"

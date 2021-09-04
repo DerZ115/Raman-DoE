@@ -1,0 +1,2 @@
+"0","K3 <- density(starbucks.km, kernel = ""disc"", sigma = 10)"
+"0","plot(K3, main=""Kernel Disc"", las=1)"

@@ -1,0 +1,2 @@
+"0","Q.d <- intensity(Q)"
+"0","plot(intensity(Q, image=TRUE), main=NULL)  # Plot density raster"

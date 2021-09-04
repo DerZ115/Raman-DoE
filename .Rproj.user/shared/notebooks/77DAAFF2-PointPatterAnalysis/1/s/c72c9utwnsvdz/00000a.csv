@@ -1,0 +1,2 @@
+"0","Q <- quadratcount(starbucks, nx= 20, ny=10)"
+"0","plot(starbucks, pch=20, cols=""blue"", main = NULL)"

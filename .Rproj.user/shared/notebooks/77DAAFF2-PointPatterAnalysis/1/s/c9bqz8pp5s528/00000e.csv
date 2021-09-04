@@ -1,0 +1,8 @@
+"0","# make a circle"
+"0","#I add a summary circle (as in Fig 5.2) by dividing the circle in 360 points and"
+"0","#compute bearing in radians."
+"0","bearing <- 1:360 * pi/180"
+"0","cx <- mc[1] + sd * cos(bearing)"
+"0","cy <- mc[2] + sd * sin(bearing)"
+"0","circle <- cbind(cx, cy)"
+"0","lines(circle, col='red', lwd=2)"

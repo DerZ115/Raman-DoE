@@ -1,0 +1,1 @@
+"0","plot(starbucks, pch=25, cex=0.6, col=rgb(0,0,0,.5), add=TRUE)  # Add points"

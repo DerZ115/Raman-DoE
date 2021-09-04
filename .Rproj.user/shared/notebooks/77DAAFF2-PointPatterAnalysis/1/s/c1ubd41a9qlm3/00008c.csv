@@ -1,0 +1,3 @@
+"0","#contour(K3, add=TRUE)"
+"0","K3 <- density(starbucks.km, kernel = ""quartic"", sigma = 10)"
+"0","plot(K3, main=""Kernel Quartic"", las=1)"

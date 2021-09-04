@@ -1,0 +1,5 @@
+"0","starbucks.km <- rescale(starbucks, 1000, ""km"")"
+"0","ma.km <- rescale(ma, 1000, ""km"")"
+"0","pop.km    <- rescale(pop, 1000, ""km"")"
+"0","pop.lg <- log(pop)"
+"0","pop.lg.km <- rescale(pop.lg, 1000, ""km"")"

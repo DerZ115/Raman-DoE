@@ -1,0 +1,3 @@
+"0",""
+"0","##########plot with circle"
+"0","plot(starbucks, main=NULL, cols=rgb(0,0,0,.2), pch=20)"

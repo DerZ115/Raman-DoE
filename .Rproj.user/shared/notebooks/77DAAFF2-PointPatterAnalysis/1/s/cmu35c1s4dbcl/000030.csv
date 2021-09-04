@@ -1,0 +1,4 @@
+"0","# drawing the lines, easiest via a loop"
+"0","for (i in far10) {"
+"0","  lines(rbind(xy[i, ], xy[wdmin[i], ]), col='red')"
+"0","}"

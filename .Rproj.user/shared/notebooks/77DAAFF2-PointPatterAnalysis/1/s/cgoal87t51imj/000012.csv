@@ -1,0 +1,3 @@
+"0",""
+"0","K4 <- density(starbucks.km, sigma=1)"
+"0","plot(K4, main=NULL, las=1)"

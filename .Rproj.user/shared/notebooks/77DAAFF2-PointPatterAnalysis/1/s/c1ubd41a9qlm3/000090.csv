@@ -1,0 +1,3 @@
+"0","#contour(K3, add=TRUE)"
+"0","K3 <- density(starbucks.km, kernel = ""gaussian"", sigma = 10)"
+"0","plot(K3, main=""Kernel Gaussian"", las=1)"

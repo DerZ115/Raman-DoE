@@ -1,0 +1,5 @@
+"0","ord <- rev(order(dmin))"
+"0",""
+"0","far10 <- ord[1:10]"
+"0","neighbors <- wdmin[far25]"
+"0","points(xy[far10, ], col='blue', pch=20)"

@@ -1,0 +1,2 @@
+"0","K2 <- density(starbucks.km, sigma=100)"
+"0","plot(K2, main=NULL, las=1)"

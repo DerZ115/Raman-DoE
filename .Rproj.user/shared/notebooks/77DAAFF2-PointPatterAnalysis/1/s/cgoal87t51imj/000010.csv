@@ -1,0 +1,4 @@
+"0","#contour(K2, add=TRUE)"
+"0",""
+"0","K3 <- density(starbucks.km, sigma=10)"
+"0","plot(K3, main=NULL, las=1)"

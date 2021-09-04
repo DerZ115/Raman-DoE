@@ -1,0 +1,7 @@
+"0","dm <- as.matrix(dist(xy))"
+"0","diag(dm) <- NA"
+"0","dmin <- apply(dm, 1, min, na.rm=TRUE)"
+"0","mdmin <- mean(dmin)"
+"0","wdmin <- apply(dm, 1, which.min)"
+"0",""
+"0","plot(starbucks, main = ""Distance Based Measures"")"
